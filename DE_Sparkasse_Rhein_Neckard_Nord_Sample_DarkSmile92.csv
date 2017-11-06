@@ -1,0 +1,2 @@
+"Auftragskonto";"Buchungstag";"Valutadatum";"Buchungstext";"Verwendungszweck";"Glaeubiger ID";"Mandatsreferenz";"Kundenreferenz (End-to-End)";"Sammlerreferenz";"Lastschrift Ursprungsbetrag";"Auslagenersatz Ruecklastschrift";"Beguenstigter/Zahlungspflichtiger";"Kontonummer/IBAN";"BIC (SWIFT-Code)";"Betrag";"Waehrung";"Info"
+"01234567";"03.11.17";"03.11.17";"FOLGELASTSCHRIFT";"Monthly membership";"DE15FIT00000123456";"24274-1";"BWUE17110200347677C";"";"";"";"Name of payee";"DE28790900000100232823";"GENODEF1WU1";"-25,65";"EUR";"Umsatz gebucht"

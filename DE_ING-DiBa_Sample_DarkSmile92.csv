@@ -1,0 +1,8 @@
+Umsatzanzeige vom 06.11.2017 15:30;Kunde;customer name
+
+Konto;DE38100101125415078540
+Zeitraum;06.10.2017 - 06.11.2017
+Kontosaldo;123,00;EUR
+
+Buchung;Valuta;Auftraggeber/Empfänger;Buchungstext;Verwendungszweck;Betrag;Währung;Saldo;Währung
+01.11.2017;01.11.2017;Person name;Gutschrift;"Monthly savings ING-DiBa  ";100,00;EUR;123,00;EUR
